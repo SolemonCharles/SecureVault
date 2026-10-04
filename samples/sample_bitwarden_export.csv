@@ -1,0 +1,4 @@
+folder,favorite,type,name,notes,fields,reprompt,login_uri,login_username,login_password,login_totp
+,,login,Demo GitHub,Fake test entry,,0,https://github.com,demo-user,Demo-Pa55word!,JBSWY3DPEHPK3PXP
+,,login,Demo Email,,,0,https://mail.example.com,demo@example.com,Another-Fake-Pw-42,
+,,login,Demo Bank,"PIN is fake: 0000",,0,https://bank.example.com,demo123,N0t-A-Real-Password,
