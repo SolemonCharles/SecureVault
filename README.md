@@ -81,10 +81,14 @@ python -m venv .venv
 ```
 
 #### Run
+Double-click **`SecureVault.bat`**. On the first run it creates `.venv` and installs the
+requirements automatically (about a minute). After that it opens straight away. If Python isn't
+installed, it tells you where to get it.
+
+Or from a terminal:
 ```powershell
 .venv\Scripts\pythonw app.py
 ```
-or double-click **`SecureVault.bat`**.
 
 #### Build the `.exe` yourself
 ```powershell
